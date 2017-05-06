@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FAFAFA</color>
+
+    <!-- Background color for the Activities category -->
+    <color name="category_activities">#757575</color>
+
+    <!-- Background color for the Shopping category -->
+    <color name="category_shopping">#9E9E9E</color>
+
+    <!-- Background color for the Good Eats category -->
+    <color name="category_goodEats">#757575</color>
+
+    <!-- Background color for the Night Life category -->
+    <color name="category_nightLife">#9E9E9E</color>
+
+    <!-- Background color for the Hidden Treasures category -->
+    <color name="category_hiddenTreasures">#757575</color>
+</resources>

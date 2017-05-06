@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Atlanta Travels</string>
+
+    <!-- Category name for Activities [CHAR LIMIT=20] -->
+    <string name="category_activities">Activities</string>
+
+    <!-- Category name for Shopping [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for Good Eats [CHAR LIMIT=20] -->
+    <string name="category_goodEats">Good Eats</string>
+
+    <!-- Category name for Night Life [CHAR LIMIT=20] -->
+    <string name="category_nightLife">Night Life</string>
+
+    <!-- Category name for Hidden Treasures [CHAR LIMIT=20] -->
+    <string name="category_hiddenTreasures">Hidden Treasures</string>
+
+    <string name="shopping_guide_1">Phipps Plaza</string>
+    <string name="shopping_guide_description_1">Shopping mall located in the affluent Buckhead district of Atlanta. Owned by Simon Property Group.</string>
+    <string name="shopping_guide_2">Shop Around Lenox</string>
+    <string name="shopping_guide_description_2">This upscale shopping mall offers a large variety of independent and national shops and restaurants.</string>
+    <string name="shopping_guide_3">Westside Provisions District</string>
+    <string name="shopping_guide_description_3">This upscale retail area has high-end shops for fashion and home goods, plus elegant restaurants.</string>
+    <string name="shopping_guide_4">The Shops Buckhead Atlanta</string>
+    <string name="shopping_guide_description_4">Buckhead Atlanta, until May 2011 called Streets of Buckhead, is a 9-acre planned mixed-use development in the Buckhead district.</string>
+    <string name="shopping_guide_5">Lenox Square</string>
+    <string name="shopping_guide_description_5">An upscale enclosed super regional shopping mall located in the Buckhead district of Atlanta, Georgia.</string>
+    <string name="shopping_guide_6">Perimeter Mall</string>
+    <string name="shopping_guide_description_6">An upscale super regional shopping mall in Dunwoody, Georgia. The mall has over 200 stores and 4 anchor stores including Dillards, Macys, Nordstrom, and Von Maur.</string>
+    <string name="shopping_guide_7">Nearly New Shop</string>
+    <string name="shopping_guide_description_7">Run by the Junior League, this shop offers previously worn name-brand clothing.</string>
+    <string name="shopping_guide_8">Atlantic Station</string>
+    <string name="shopping_guide_description_8">A neighborhood on the northwestern edge of Midtown Atlanta, Georgia, United States comprising a retail district, office space, condominiums, townhomes and apartment buildings.</string>
+    <string name="shopping_guide_9">Underground Atlanta</string>
+    <string name="shopping_guide_description_9">Underground Atlanta is a shopping and entertainment district in the Five Points neighborhood of downtown Atlanta, Georgia, United States, near the Five Points MARTA station.</string>
+    <string name="shopping_guide_10">Labels Resale Boutique</string>
+    <string name="shopping_guide_description_10">Consignment retailer offering high-end designer clothes, shoes and accessories.</string>
+
+    <string name="nightLife_guide_1">Tongue and Groove</string>
+    <string name="nightLife_guide_description_1">This sleek nightclub with luxe decor is a lively spot for dancing and private party table service.</string>
+    <string name="nightLife_guide_2">Lava Lounge</string>
+    <string name="nightLife_guide_description_2">Tri-level lounge and dance club with outdoor Tropical Deck, plush velvet seating and 4 bars.</string>
+    <string name="nightLife_guide_3">Whiskey Blue</string>
+    <string name="nightLife_guide_description_3">Sophisticated indoor/outdoor rooftop lounge in the W Hotel serving craft cocktails amid city views.</string>
+    <string name="nightLife_guide_4">Gold Room</string>
+    <string name="nightLife_guide_description_4">Flashy, bi-level nightspot with lavish decor, DJs and bottle service, plus an enforced dress code.</string>
+    <string name="nightLife_guide_5">Halo Lounge</string>
+    <string name="nightLife_guide_description_5">The lounge below the Biltmore Hotel features a backlit onyx bar, small dance floor and roster of DJs.</string>
+    <string name="nightLife_guide_6">Opera Nightclub</string>
+    <string name="nightLife_guide_description_6">Opera Nightclub is a nightclub located in Midtown Atlanta, Georgia, United States. It is Atlantas most popular and successful nightclub in terms of revenue and attendance and has also been featured in Nightclub and Bars Top 50 Clubs in the United States for 2015.</string>
+    <string name="nightLife_guide_7">The Ivy Buckhead</string>
+    <string name="nightLife_guide_description_7">Lively lounge in a grand home has sandwiches, burgers and pizza, plus brunch with bottomless mimosas.</string>
+
+    <string name="hiddenTreasures_guide_1">Edgewood Speakeasy</string>
+    <string name="hiddenTreasures_guide_description_1">A creative cocktail bar with exposed brick walls and low lighting, hidden at the back of a pizzeria.</string>
+    <string name="hiddenTreasures_guide_2">El Bar</string>
+    <string name="hiddenTreasures_guide_description_2">Tiny underground hangout draws crowds for high-energy dance parties with DJ-spun beats.</string>
+    <string name="hiddenTreasures_guide_3">The Blind Pig Parlour Bar</string>
+    <string name="hiddenTreasures_guide_description_3">Cocktail Bar Stylish, low-profile venue featuring cocktails and high-end bar snacks in a Prohibition-era setting.</string>
+    <string name="hiddenTreasures_guide_4">Red Phone Booth</string>
+    <string name="hiddenTreasures_guide_description_4">Craft cocktails, small plates and cigars offered in a chic speakeasy entered through a phone booth.</string>
+    <string name="hiddenTreasures_guide_5">Muss and Turners Smyrna</string>
+    <string name="hiddenTreasures_guide_description_5">Snazzy bistro offering clever sandwiches (Aporkalypse Now) by day and New Southern cuisine by night.</string>
+    <string name="hiddenTreasures_guide_6">Sister Louisas Church of the Living Room and Ping Pong Emporium</string>
+    <string name="hiddenTreasures_guide_description_6">Church-themed bar with picnic-style eats, church-organ karaoke and weekly Ping-Pong tournaments.</string>
+
+    <string name="goodEats_guide_1">Aria</string>
+    <string name="goodEats_guide_description_1">Dinner-only eatery with New American fare, elegant black-and-white decor and secret wine cellar table.</string>
+    <string name="goodEats_guide_2">Canoe</string>
+    <string name="goodEats_guide_description_2">Farm-to-table New American cuisine in an elegant garden setting overlooking the Chattahoochee River.</string>
+    <string name="goodEats_guide_3">The Optimist</string>
+    <string name="goodEats_guide_description_3">Lobster rolls, gumbo, wood-fired oysters and more in a lofty, country-modern space with a raw bar.</string>
+    <string name="goodEats_guide_4">Rays in the City</string>
+    <string name="goodEats_guide_description_4">Upscale setting for seafood, prime cuts and an extensive wine list, plus live jazz Thursday-Saturday.</string>
+    <string name="goodEats_guide_5">The General Muir</string>
+    <string name="goodEats_guide_description_5">The New York-style deli goes contemporary at this upscale Jewish deli adorned with subway tiles.</string>
+    <string name="goodEats_guide_6">Alma Cocina</string>
+    <string name="goodEats_guide_description_6">Inventive Mexican fare with regional influences and Latin-inspired cocktails in a stylish setting.</string>
+    <string name="goodEats_guide_7">Antico</string>
+    <string name="goodEats_guide_description_7">Busy family-run pizzeria near Georgia Tech known for brick-oven pies, with communal seating and BYOB.</string>
+    <string name="goodEats_guide_8">Le Fat</string>
+    <string name="goodEats_guide_description_8">Comfortable yet classy restaurant focusing on bold Vietnamese food, plus family-style plates.</string>
+    <string name="goodEats_guide_9">Miller Union</string>
+    <string name="goodEats_guide_description_9">New American eatery with a farm-fresh, Southern-accented menu and a country-modern space.</string>
+    <string name="goodEats_guide_10">Kimball House</string>
+    <string name="goodEats_guide_description_10">Once a railroad station, this sleek eatery and raw bar serves farm-to-table entrees with French flair.</string>
+
+    <string name="activities_guide_1">Georgia Aquarium</string>
+    <string name="activities_guide_description_1">The largest aquarium in the Western Hemisphere with 10 million gallons of fresh and marine water and tens of thousands of animals.</string>
+    <string name="activities_guide_2">World of Coca - Cola</string>
+    <string name="activities_guide_description_2">Welcome to World of Coca-Cola in Atlanta, GA where you can spend the day interacting with multiple exhibits and sampling more than 100 different beverages.</string>
+    <string name="activities_guide_3">Centennical Olympic Park</string>
+    <string name="activities_guide_description_3">Walkable, safe, vibrant and fun, you’ll find world-class attractions, renowned dining, exquisite hotels and a host of entertainment options all nestled around Centennial Olympic Park.</string>
+    <string name="activities_guide_4">CNN Center</string>
+    <string name="activities_guide_description_4">The CNN Center is the world headquarters of CNN. The main newsrooms and studios for several of CNNs news channels are located in the building.</string>
+    <string name="activities_guide_5">High Museum of Art</string>
+    <string name="activities_guide_description_5">The High Museum of Art, located in Atlanta, is the leading art museum in the Southeastern United States. Located on Peachtree Street in Midtown, the citys arts district, the High is a division of the Woodruff Arts Center.</string>
+    <string name="activities_guide_6">Fox Theatre</string>
+    <string name="activities_guide_description_6">The Fox Theatre, a former movie palace, is a performing arts venue located at 660 Peachtree Street NE in Midtown Atlanta, Georgia, and is the centerpiece of the Fox Theatre Historic District.</string>
+    <string name="activities_guide_7">Fernbank Museum Natural History</string>
+    <string name="activities_guide_description_7">The Fernbank Science Center is a museum, classroom, and woodland complex located in Atlanta.</string>
+    <string name="activities_guide_8">Martin Luther King Jr. Natural Historic Site</string>
+    <string name="activities_guide_description_8">The Martin Luther King Jr. National Historic Site consists of several buildings including Martin Luther King Jr.s boyhood home and the original Ebenezer Baptist Church, the church where King was baptized and both his father Martin Luther King Sr., and he were pastors.</string>
+    <string name="activities_guide_9">Atlanta History Center</string>
+    <string name="activities_guide_description_9">The Atlanta History Center is a history museum and research center located in the Buckhead district of Atlanta, Georgia.</string>
+    <string name="activities_guide_10">Atlanta Botanical Garden</string>
+    <string name="activities_guide_description_10">The Atlanta Botanical Garden is a 30 acres botanical garden located adjacent to Piedmont Park in Midtown Atlanta.</string>
+
+</resources>
